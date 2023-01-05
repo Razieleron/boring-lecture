@@ -1,3 +1,13 @@
+.intro {
+  font-size: 5px;
+  font-weight: 800px;
+}
+
+.purple {
+  color: rgb(92, 12, 92); 
+  font-family: Papyrus;
+}
+
 h1 {
   color: darkred;
 }
@@ -9,6 +19,7 @@ h2 {
 
 p {
   color: crimson;
+  font-family: comic sans;
 }
 
 body {
@@ -17,8 +28,4 @@ body {
   text-align: center;
 }
 
-.intro {
-  font-size: 5px;
-  font-weight: 800px ;
 
-}
